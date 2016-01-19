@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chaincrafting",
+  "name": "ChainCrafting",
+  "description": "This is my first, simple modification for Minecraft. With this mod, you can craft chane armor with iron bars, which is not possible in vanilla Minecraft (yet).",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://youtube.com/zekrommaster110",
+  "updateUrl": "",
+  "authorList": ["zekro"],
+  "credits": "©2016 zekro",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
