@@ -1,5 +1,5 @@
 #"ChainCrafting" 1.8.9
-###A simple Minecraft Forge modification to craft thinks, you cant craft in minecraft normally!
+###A simple Minecraft Forge modification to craft things, you cant craft in minecraft normally!
 
 With this little **Minecraft 1.8.9** modification you can simply **craft chain armor with iron bars, which is not possible in the vanilla version** of Meinecraft (yet).
 Later,  I will expand this mod with other crafting recepies and new functions!
